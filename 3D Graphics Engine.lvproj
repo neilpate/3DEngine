@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="20008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -11,32 +12,24 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Controls" Type="Folder">
-			<Item Name="Camera.ctl" Type="VI" URL="../Controls/Camera.ctl"/>
-			<Item Name="Mesh.ctl" Type="VI" URL="../Controls/Mesh.ctl"/>
-			<Item Name="Point 2D.ctl" Type="VI" URL="../Controls/Point 2D.ctl"/>
-			<Item Name="Screen Dimensions.ctl" Type="VI" URL="../Controls/Screen Dimensions.ctl"/>
-			<Item Name="Triangle.ctl" Type="VI" URL="../Controls/Triangle.ctl"/>
-			<Item Name="Vector 3D.ctl" Type="VI" URL="../Controls/Vector 3D.ctl"/>
-		</Item>
-		<Item Name="Sub VIs" Type="Folder">
-			<Item Name="Picture" Type="Folder">
-				<Item Name="Clear Screen.vi" Type="VI" URL="../SubVIs/Clear Screen.vi"/>
-				<Item Name="Draw Triangle.vi" Type="VI" URL="../SubVIs/Draw Triangle.vi"/>
-			</Item>
-			<Item Name="Calculate A F Q.vi" Type="VI" URL="../SubVIs/Calculate A F Q.vi"/>
-			<Item Name="Calculate Projection Matrix.vi" Type="VI" URL="../SubVIs/Calculate Projection Matrix.vi"/>
-			<Item Name="Create Cube.vi" Type="VI" URL="../SubVIs/Create Cube.vi"/>
-			<Item Name="Multiply Vector By Matrix.vi" Type="VI" URL="../SubVIs/Multiply Vector By Matrix.vi"/>
-			<Item Name="Transform Vector To Screen Space.vi" Type="VI" URL="../SubVIs/Transform Vector To Screen Space.vi"/>
-		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+		<Item Name="3D.lvlib" Type="Library" URL="../Libraries/3D/3D.lvlib"/>
+		<Item Name="Raster.lvlib" Type="Library" URL="../Libraries/Raster/Raster.lvlib"/>
+		<Item Name="Utility.lvlib" Type="Library" URL="../Libraries/Utility/Utility.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
-				<Item Name="Draw Multiple Lines.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Multiple Lines.vi"/>
-				<Item Name="Draw Rectangle.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Rectangle.vi"/>
+				<Item Name="Draw 1-Bit Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw 1-Bit Pixmap.vi"/>
+				<Item Name="Draw 4-Bit Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw 4-Bit Pixmap.vi"/>
+				<Item Name="Draw 8-Bit Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw 8-Bit Pixmap.vi"/>
+				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
+				<Item Name="Draw True-Color Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw True-Color Pixmap.vi"/>
+				<Item Name="Draw Unflattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Unflattened Pixmap.vi"/>
+				<Item Name="FixBadRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/FixBadRect.vi"/>
+				<Item Name="Flatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Flatten Pixmap.vi"/>
+				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
+				<Item Name="imagedata.ctl" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/imagedata.ctl"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
-				<Item Name="Set Pen State.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Set Pen State.vi"/>
+				<Item Name="sub_Random U32.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/sub_Random U32.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
