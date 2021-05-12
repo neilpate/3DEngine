@@ -9,20 +9,25 @@
 	<Item Name="API" Type="Folder">
 		<Item Name="Calculate A F Q.vi" Type="VI" URL="../Calculate A F Q.vi"/>
 		<Item Name="Calculate Projection Matrix.vi" Type="VI" URL="../Calculate Projection Matrix.vi"/>
+		<Item Name="Convert Point 2D (SGL) to Point 2D (I32).vi" Type="VI" URL="../Convert Point 2D (SGL) to Point 2D (I32).vi"/>
 		<Item Name="Create Cube.vi" Type="VI" URL="../Create Cube.vi"/>
 		<Item Name="Create Rotation Matrices.vi" Type="VI" URL="../../../Sub Vs/Create Rotation Matrices.vi"/>
 		<Item Name="Multiply Vector By Matrix.vi" Type="VI" URL="../Multiply Vector By Matrix.vi"/>
 		<Item Name="Normal.vi" Type="VI" URL="../Normal.vi"/>
 		<Item Name="Normalise Vector.vi" Type="VI" URL="../Normalise Vector.vi"/>
+		<Item Name="Raster.vi" Type="VI" URL="../Raster.vi"/>
+		<Item Name="Sort Triangles.vi" Type="VI" URL="../Sort Triangles.vi"/>
 		<Item Name="Transform Vector To Screen Space.vi" Type="VI" URL="../Transform Vector To Screen Space.vi"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Camera.ctl" Type="VI" URL="../Camera.ctl"/>
 		<Item Name="Mesh.ctl" Type="VI" URL="../Mesh.ctl"/>
 		<Item Name="Point 2D.ctl" Type="VI" URL="../Point 2D.ctl"/>
-		<Item Name="Triangle.ctl" Type="VI" URL="../Triangle.ctl"/>
+		<Item Name="Triangle 2D.ctl" Type="VI" URL="../Triangle 2D.ctl"/>
+		<Item Name="Triangle 3D.ctl" Type="VI" URL="../Triangle 3D.ctl"/>
 		<Item Name="Vector 3D.ctl" Type="VI" URL="../Vector 3D.ctl"/>
 	</Item>
+	<Item Name="Sub VIs" Type="Folder"/>
 	<Item Name="Test" Type="Folder">
 		<Item Name="Test - Normalise Vector.vi" Type="VI" URL="../Test - Normalise Vector.vi"/>
 	</Item>
