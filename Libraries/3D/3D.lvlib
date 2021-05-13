@@ -35,4 +35,5 @@
 	<Item Name="Test" Type="Folder">
 		<Item Name="Test - Normalise Vector.vi" Type="VI" URL="../Test - Normalise Vector.vi"/>
 	</Item>
+	<Item Name="Clear Framebuffer.vi" Type="VI" URL="../Clear Framebuffer.vi"/>
 </Library>
