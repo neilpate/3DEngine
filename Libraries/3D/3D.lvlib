@@ -13,8 +13,13 @@
 		<Item Name="Calculate Triangle Illumination.vi" Type="VI" URL="../Calculate Triangle Illumination.vi"/>
 		<Item Name="Convert Point 2D (SGL) to Point 2D (I32).vi" Type="VI" URL="../Convert Point 2D (SGL) to Point 2D (I32).vi"/>
 		<Item Name="Create Cube.vi" Type="VI" URL="../Create Cube.vi"/>
-		<Item Name="Create Rotation Matrices.vi" Type="VI" URL="../../../Sub Vs/Create Rotation Matrices.vi"/>
+		<Item Name="Create Translation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create Translation Matrix.vi"/>
+		<Item Name="Create X Rotation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create X Rotation Matrix.vi"/>
+		<Item Name="Create Y Rotation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create Y Rotation Matrix.vi"/>
+		<Item Name="Create Z Rotation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create Z Rotation Matrix.vi"/>
+		<Item Name="Degrees To Radians.vi" Type="VI" URL="../Degrees To Radians.vi"/>
 		<Item Name="Dot Product.vi" Type="VI" URL="../Dot Product.vi"/>
+		<Item Name="Import OBJ.vi" Type="VI" URL="../Import OBJ.vi"/>
 		<Item Name="Multiply Vector By Matrix.vi" Type="VI" URL="../Multiply Vector By Matrix.vi"/>
 		<Item Name="Normal.vi" Type="VI" URL="../Normal.vi"/>
 		<Item Name="Normalise Vector.vi" Type="VI" URL="../Normalise Vector.vi"/>
@@ -35,5 +40,4 @@
 	<Item Name="Test" Type="Folder">
 		<Item Name="Test - Normalise Vector.vi" Type="VI" URL="../Test - Normalise Vector.vi"/>
 	</Item>
-	<Item Name="Clear Framebuffer.vi" Type="VI" URL="../Clear Framebuffer.vi"/>
 </Library>
