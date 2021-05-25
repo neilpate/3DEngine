@@ -19,14 +19,14 @@
 			<Item Name="Sub VIs" Type="Folder">
 				<Item Name="Raster.vi" Type="VI" URL="../Main/Raster.vi"/>
 				<Item Name="Present.vi" Type="VI" URL="../Main/Present.vi"/>
+				<Item Name="Initialise.vi" Type="VI" URL="../Main/Initialise.vi"/>
+				<Item Name="Transform And Project.vi" Type="VI" URL="../Main/Transform And Project.vi"/>
 			</Item>
 			<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		</Item>
 		<Item Name="3D.lvlib" Type="Library" URL="../Libraries/3D/3D.lvlib"/>
 		<Item Name="Raster.lvlib" Type="Library" URL="../Libraries/Raster/Raster.lvlib"/>
 		<Item Name="Utility.lvlib" Type="Library" URL="../Libraries/Utility/Utility.lvlib"/>
-		<Item Name="Transform And Project.vi" Type="VI" URL="../Main/Transform And Project.vi"/>
-		<Item Name="Initialise.vi" Type="VI" URL="../Main/Initialise.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw 1-Bit Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw 1-Bit Pixmap.vi"/>

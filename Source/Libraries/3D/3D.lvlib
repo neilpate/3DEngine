@@ -8,21 +8,26 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
+		<Item Name="Apply View Matrix.vi" Type="VI" URL="../Apply View Matrix.vi"/>
 		<Item Name="Calculate A F Q.vi" Type="VI" URL="../Calculate A F Q.vi"/>
 		<Item Name="Calculate Projection Matrix.vi" Type="VI" URL="../Calculate Projection Matrix.vi"/>
 		<Item Name="Calculate Triangle Illumination.vi" Type="VI" URL="../Calculate Triangle Illumination.vi"/>
+		<Item Name="Calculate View Matrix.vi" Type="VI" URL="../Calculate View Matrix.vi"/>
 		<Item Name="Convert Point 2D (SGL) to Point 2D (I32).vi" Type="VI" URL="../Convert Point 2D (SGL) to Point 2D (I32).vi"/>
 		<Item Name="Create Cube.vi" Type="VI" URL="../Create Cube.vi"/>
 		<Item Name="Create Translation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create Translation Matrix.vi"/>
 		<Item Name="Create X Rotation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create X Rotation Matrix.vi"/>
 		<Item Name="Create Y Rotation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create Y Rotation Matrix.vi"/>
 		<Item Name="Create Z Rotation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create Z Rotation Matrix.vi"/>
+		<Item Name="Cross Product.vi" Type="VI" URL="../Cross Product.vi"/>
 		<Item Name="Degrees To Radians.vi" Type="VI" URL="../Degrees To Radians.vi"/>
 		<Item Name="Dot Product.vi" Type="VI" URL="../Dot Product.vi"/>
 		<Item Name="Import OBJ.vi" Type="VI" URL="../Import OBJ.vi"/>
+		<Item Name="Matrix Quick Invert.vi" Type="VI" URL="../Matrix Quick Invert.vi"/>
 		<Item Name="Multiply Vector By Matrix.vi" Type="VI" URL="../Multiply Vector By Matrix.vi"/>
 		<Item Name="Normal.vi" Type="VI" URL="../Normal.vi"/>
 		<Item Name="Normalise Vector.vi" Type="VI" URL="../Normalise Vector.vi"/>
+		<Item Name="Point At.vi" Type="VI" URL="../Point At.vi"/>
 		<Item Name="Project And Illuminate Triangle.vi" Type="VI" URL="../Project And Illuminate Triangle.vi"/>
 		<Item Name="Raster.vi" Type="VI" URL="../Raster.vi"/>
 		<Item Name="Scale Point 3D (SGL) To Screen.vi" Type="VI" URL="../Scale Point 3D (SGL) To Screen.vi"/>
@@ -42,5 +47,7 @@
 	<Item Name="Sub VIs" Type="Folder"/>
 	<Item Name="Test" Type="Folder">
 		<Item Name="Test - Normalise Vector.vi" Type="VI" URL="../Test - Normalise Vector.vi"/>
+		<Item Name="Test - Point At.vi" Type="VI" URL="../Test - Point At.vi"/>
+		<Item Name="Test - Quick Invert.vi" Type="VI" URL="../Test - Quick Invert.vi"/>
 	</Item>
 </Library>
