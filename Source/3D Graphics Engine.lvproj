@@ -24,9 +24,13 @@
 			</Item>
 			<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		</Item>
+		<Item Name="Benchmark" Type="Folder">
+			<Item Name="Benchmark.lvlib" Type="Library" URL="../Benchmark/Benchmark.lvlib"/>
+		</Item>
 		<Item Name="3D.lvlib" Type="Library" URL="../Libraries/3D/3D.lvlib"/>
 		<Item Name="Raster.lvlib" Type="Library" URL="../Libraries/Raster/Raster.lvlib"/>
 		<Item Name="Utility.lvlib" Type="Library" URL="../Libraries/Utility/Utility.lvlib"/>
+		<Item Name="Delta Time Inline.vim" Type="VI" URL="../Libraries/Utility/Delta Time Inline.vim"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw 1-Bit Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw 1-Bit Pixmap.vi"/>
