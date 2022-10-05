@@ -4,8 +4,20 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">573603840</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="All" Type="Folder">
+		<Item Name="All 1.vi" Type="VI" URL="../All 1.vi"/>
+	</Item>
 	<Item Name="Common" Type="Folder">
 		<Item Name="Initialise.vi" Type="VI" URL="../Initialise.vi"/>
+	</Item>
+	<Item Name="Present" Type="Folder">
+		<Item Name="Present 1.vi" Type="VI" URL="../Present 1.vi"/>
+	</Item>
+	<Item Name="Raster" Type="Folder">
+		<Item Name="Raster 1.vi" Type="VI" URL="../Raster 1.vi"/>
+	</Item>
+	<Item Name="Timing" Type="Folder">
+		<Item Name="Delta Time.vi" Type="VI" URL="../Delta Time.vi"/>
 	</Item>
 	<Item Name="Transform And Project" Type="Folder">
 		<Item Name="Transform And Project 1.vi" Type="VI" URL="../Transform And Project 1.vi"/>
