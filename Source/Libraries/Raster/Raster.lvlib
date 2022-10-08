@@ -17,6 +17,7 @@
 		<Item Name="Present.vi" Type="VI" URL="../Present.vi"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
+		<Item Name="Method.ctl" Type="VI" URL="../Method.ctl"/>
 		<Item Name="Point 2D.ctl" Type="VI" URL="../Point 2D.ctl"/>
 		<Item Name="Screen Dimensions.ctl" Type="VI" URL="../Screen Dimensions.ctl"/>
 	</Item>
