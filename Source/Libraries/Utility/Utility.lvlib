@@ -8,8 +8,11 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
+		<Item Name="Deprecated" Type="Folder">
+			<Item Name="Delta Time.vi" Type="VI" URL="../Delta Time.vi"/>
+		</Item>
 		<Item Name="Delta Time Inline.vim" Type="VI" URL="../Delta Time Inline.vim"/>
-		<Item Name="Delta Time.vi" Type="VI" URL="../Delta Time.vi"/>
+		<Item Name="Measure Frame Rate.vi" Type="VI" URL="../Measure Frame Rate.vi"/>
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
