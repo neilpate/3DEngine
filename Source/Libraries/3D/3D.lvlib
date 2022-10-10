@@ -15,10 +15,10 @@
 		<Item Name="Calculate View Matrix.vi" Type="VI" URL="../Calculate View Matrix.vi"/>
 		<Item Name="Convert Point 2D (SGL) to Point 2D (I32).vi" Type="VI" URL="../Convert Point 2D (SGL) to Point 2D (I32).vi"/>
 		<Item Name="Create Cube.vi" Type="VI" URL="../Create Cube.vi"/>
-		<Item Name="Create Translation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create Translation Matrix.vi"/>
-		<Item Name="Create X Rotation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create X Rotation Matrix.vi"/>
-		<Item Name="Create Y Rotation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create Y Rotation Matrix.vi"/>
-		<Item Name="Create Z Rotation Matrix.vi" Type="VI" URL="../../../Sub Vs/Create Z Rotation Matrix.vi"/>
+		<Item Name="Create Translation Matrix.vi" Type="VI" URL="../../../Main/Sub Vs/Create Translation Matrix.vi"/>
+		<Item Name="Create X Rotation Matrix.vi" Type="VI" URL="../../../Main/Sub Vs/Create X Rotation Matrix.vi"/>
+		<Item Name="Create Y Rotation Matrix.vi" Type="VI" URL="../../../Main/Sub Vs/Create Y Rotation Matrix.vi"/>
+		<Item Name="Create Z Rotation Matrix.vi" Type="VI" URL="../../../Main/Sub Vs/Create Z Rotation Matrix.vi"/>
 		<Item Name="Cross Product.vi" Type="VI" URL="../Cross Product.vi"/>
 		<Item Name="Degrees To Radians.vi" Type="VI" URL="../Degrees To Radians.vi"/>
 		<Item Name="Dot Product.vi" Type="VI" URL="../Dot Product.vi"/>
