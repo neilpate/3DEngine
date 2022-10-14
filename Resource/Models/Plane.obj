@@ -1,10 +1,12 @@
 # Blender v3.1.2 OBJ File: 'Plane.blend'
 # www.blender.org
+mtllib Plane.mtl
 o Cube
 v 4.197378 0.101747 -3.986308
 v 4.197378 0.101747 3.986308
 v -4.197378 0.101747 -3.986308
 v -4.197378 0.101747 3.986308
+usemtl Material
 s off
 f 3 2 1
 f 3 4 2

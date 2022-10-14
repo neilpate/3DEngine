@@ -22,6 +22,7 @@
 		<Item Name="Cross Product.vi" Type="VI" URL="../Cross Product.vi"/>
 		<Item Name="Degrees To Radians.vi" Type="VI" URL="../Degrees To Radians.vi"/>
 		<Item Name="Dot Product.vi" Type="VI" URL="../Dot Product.vi"/>
+		<Item Name="Import MTL.vi" Type="VI" URL="../Import MTL.vi"/>
 		<Item Name="Import OBJ.vi" Type="VI" URL="../Import OBJ.vi"/>
 		<Item Name="Matrix Quick Invert.vi" Type="VI" URL="../Matrix Quick Invert.vi"/>
 		<Item Name="Multiply Vector By Matrix.vi" Type="VI" URL="../Multiply Vector By Matrix.vi"/>
@@ -41,6 +42,7 @@
 		<Item Name="Point 2D.ctl" Type="VI" URL="../Point 2D.ctl"/>
 		<Item Name="Transform.ctl" Type="VI" URL="../Transform.ctl"/>
 		<Item Name="Triangle 2D.ctl" Type="VI" URL="../Triangle 2D.ctl"/>
+		<Item Name="Triangle 3D With Colour.ctl" Type="VI" URL="../Triangle 3D With Colour.ctl"/>
 		<Item Name="Triangle 3D.ctl" Type="VI" URL="../Triangle 3D.ctl"/>
 		<Item Name="Vector 3D.ctl" Type="VI" URL="../Vector 3D.ctl"/>
 	</Item>
