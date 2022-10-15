@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="Controls" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Camera.ctl" Type="VI" URL="../Camera.ctl"/>
 		<Item Name="Core Data.ctl" Type="VI" URL="../Core Data.ctl"/>
 		<Item Name="Scene.ctl" Type="VI" URL="../Scene.ctl"/>
 	</Item>
