@@ -10,6 +10,7 @@
 	<Item Name="Controls" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Core Data.ctl" Type="VI" URL="../Core Data.ctl"/>
+		<Item Name="Scene.ctl" Type="VI" URL="../Scene.ctl"/>
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

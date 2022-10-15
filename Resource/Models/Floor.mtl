@@ -1,10 +1,10 @@
-# Blender MTL File: 'Plane.blend'
+# Blender MTL File: 'Floor.blend'
 # Material Count: 1
 
 newmtl Material
 Ns 359.999993
 Ka 1.000000 1.000000 1.000000
-Kd 0.052576 0.800000 0.032541
+Kd 0.003496 0.800000 0.010706
 Ks 0.500000 0.500000 0.500000
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000

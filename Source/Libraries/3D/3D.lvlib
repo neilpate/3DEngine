@@ -38,7 +38,7 @@
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Camera.ctl" Type="VI" URL="../Camera.ctl"/>
-		<Item Name="Mesh.ctl" Type="VI" URL="../Mesh.ctl"/>
+		<Item Name="Object.ctl" Type="VI" URL="../Object.ctl"/>
 		<Item Name="Point 2D.ctl" Type="VI" URL="../Point 2D.ctl"/>
 		<Item Name="Transform.ctl" Type="VI" URL="../Transform.ctl"/>
 		<Item Name="Triangle 2D.ctl" Type="VI" URL="../Triangle 2D.ctl"/>
