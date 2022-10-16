@@ -15,8 +15,8 @@
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Draw FPS.vi" Type="VI" URL="../Draw FPS.vi"/>
 		<Item Name="Draw Help.vi" Type="VI" URL="../Draw Help.vi"/>
+		<Item Name="Draw Stats.vi" Type="VI" URL="../Draw Stats.vi"/>
 		<Item Name="Initialise.vi" Type="VI" URL="../Initialise.vi"/>
 		<Item Name="Present.vi" Type="VI" URL="../Present.vi"/>
 		<Item Name="Process Mouse Move.vi" Type="VI" URL="../Process Mouse Move.vi"/>
