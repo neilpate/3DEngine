@@ -21,7 +21,7 @@
 		<Item Name="Present.vi" Type="VI" URL="../Present.vi"/>
 		<Item Name="Process Mouse Move.vi" Type="VI" URL="../Process Mouse Move.vi"/>
 		<Item Name="Raster.vi" Type="VI" URL="../Raster.vi"/>
-		<Item Name="Transform And Project.vi" Type="VI" URL="../Transform And Project.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../../Main.vi"/>
+	<Item Name="Scene.lvclass" Type="LVClass" URL="../Scene/Scene.lvclass"/>
 </Library>
