@@ -10,7 +10,6 @@
 	<Item Name="API" Type="Folder">
 		<Item Name="Clear Framebuffer.vi" Type="VI" URL="../Clear Framebuffer.vi"/>
 		<Item Name="Draw Filled Triangle.vi" Type="VI" URL="../Draw Filled Triangle.vi"/>
-		<Item Name="Draw Horizontal Line.vi" Type="VI" URL="../Draw Horizontal Line.vi"/>
 		<Item Name="Draw Line.vi" Type="VI" URL="../Draw Line.vi"/>
 		<Item Name="Draw Triangle.vi" Type="VI" URL="../Draw Triangle.vi"/>
 		<Item Name="Initialise.vi" Type="VI" URL="../Initialise.vi"/>
@@ -25,6 +24,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Draw Flat Bottom Filled Triangle.vi" Type="VI" URL="../Draw Flat Bottom Filled Triangle.vi"/>
 		<Item Name="Draw Flat Top Filled Triangle.vi" Type="VI" URL="../Draw Flat Top Filled Triangle.vi"/>
+		<Item Name="Draw Horizontal Line.vi" Type="VI" URL="../Draw Horizontal Line.vi"/>
 		<Item Name="Sort Points.vi" Type="VI" URL="../Sort Points.vi"/>
 	</Item>
 	<Item Name="Test" Type="Folder">
