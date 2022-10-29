@@ -47,6 +47,8 @@
 		<Item Name="Vector 3D.ctl" Type="VI" URL="../Vector 3D.ctl"/>
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Check Raster Point In Range.vi" Type="VI" URL="../Check Raster Point In Range.vi"/>
 		<Item Name="Inverse Square Root.vi" Type="VI" URL="../Inverse Square Root.vi"/>
 	</Item>
 	<Item Name="Test" Type="Folder">
