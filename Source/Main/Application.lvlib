@@ -16,6 +16,7 @@
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Convert Keypress To Camera Movement.vi" Type="VI" URL="../Convert Keypress To Camera Movement.vi"/>
 		<Item Name="Draw Help.vi" Type="VI" URL="../Draw Help.vi"/>
 		<Item Name="Draw Stats.vi" Type="VI" URL="../Draw Stats.vi"/>
 		<Item Name="Initialise.vi" Type="VI" URL="../Initialise.vi"/>
