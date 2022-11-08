@@ -28,12 +28,12 @@
 		<Item Name="Sort Points.vi" Type="VI" URL="../Sort Points.vi"/>
 	</Item>
 	<Item Name="Test" Type="Folder">
-		<Item Name="Broken" Type="Folder">
-			<Item Name="Test - Draw Filled Triangle.vi" Type="VI" URL="../Test - Draw Filled Triangle.vi"/>
-			<Item Name="Test - Draw Line 1.vi" Type="VI" URL="../Test - Draw Line 1.vi"/>
-			<Item Name="Test - Draw Lines 1.vi" Type="VI" URL="../Test - Draw Lines 1.vi"/>
-		</Item>
+		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="Test - Draw Filled Triangle.vi" Type="VI" URL="../Test - Draw Filled Triangle.vi"/>
+		<Item Name="Test - Draw Unfilled Triangle.vi" Type="VI" URL="../Test - Draw Unfilled Triangle.vi"/>
 		<Item Name="Test - Draw Horizontal Line.vi" Type="VI" URL="../Test - Draw Horizontal Line.vi"/>
+		<Item Name="Test - Draw Line 1.vi" Type="VI" URL="../Test - Draw Line 1.vi"/>
+		<Item Name="Test - Draw Lines 1.vi" Type="VI" URL="../Test - Draw Lines 1.vi"/>
 		<Item Name="Test - Replace Row Or Column.vi" Type="VI" URL="../Test - Replace Row Or Column.vi"/>
 	</Item>
 </Library>
