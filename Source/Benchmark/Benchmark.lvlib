@@ -10,20 +10,4 @@
 	<Item Name="Common" Type="Folder">
 		<Item Name="Initialise.vi" Type="VI" URL="../Initialise.vi"/>
 	</Item>
-	<Item Name="Inverse Square Root" Type="Folder">
-		<Item Name="Inverse Square Root 1.vi" Type="VI" URL="../Inverse Square Root 1.vi"/>
-		<Item Name="Inverse Square Root 2.vi" Type="VI" URL="../Inverse Square Root 2.vi"/>
-	</Item>
-	<Item Name="Present" Type="Folder">
-		<Item Name="Present 1.vi" Type="VI" URL="../Present 1.vi"/>
-	</Item>
-	<Item Name="Raster" Type="Folder">
-		<Item Name="Raster 1.vi" Type="VI" URL="../Raster 1.vi"/>
-	</Item>
-	<Item Name="Timing" Type="Folder">
-		<Item Name="Delta Time.vi" Type="VI" URL="../Delta Time.vi"/>
-	</Item>
-	<Item Name="Transform And Project" Type="Folder">
-		<Item Name="Transform And Project 1.vi" Type="VI" URL="../Transform And Project 1.vi"/>
-	</Item>
 </Library>

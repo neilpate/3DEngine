@@ -11,9 +11,14 @@
 		<Item Name="Deprecated" Type="Folder">
 			<Item Name="Delta Time.vi" Type="VI" URL="../Delta Time.vi"/>
 		</Item>
+		<Item Name="Convert Pixels To Picture.vi" Type="VI" URL="../Convert Pixels To Picture.vi"/>
 		<Item Name="Convert Seconds To Milliseconds.vi" Type="VI" URL="../Convert Seconds To Milliseconds.vi"/>
 		<Item Name="Delta Time Inline.vim" Type="VI" URL="../Delta Time Inline.vim"/>
 		<Item Name="Measure Frame Rate.vi" Type="VI" URL="../Measure Frame Rate.vi"/>
+	</Item>
+	<Item Name="Benchmark" Type="Folder">
+		<Item Name="Benchmark - Convert Pixels To Picture.vi" Type="VI" URL="../Benchmark - Convert Pixels To Picture.vi"/>
+		<Item Name="Benchmark - Delta Time.vi" Type="VI" URL="../Benchmark - Delta Time.vi"/>
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

@@ -13,7 +13,6 @@
 		<Item Name="Draw Line.vi" Type="VI" URL="../Draw Line.vi"/>
 		<Item Name="Draw Triangle.vi" Type="VI" URL="../Draw Triangle.vi"/>
 		<Item Name="Initialise.vi" Type="VI" URL="../Initialise.vi"/>
-		<Item Name="Present.vi" Type="VI" URL="../Present.vi"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Method.ctl" Type="VI" URL="../Method.ctl"/>

@@ -36,6 +36,10 @@
 		<Item Name="Transform Triangle.vi" Type="VI" URL="../Transform Triangle.vi"/>
 		<Item Name="Transform Vector To Screen Space.vi" Type="VI" URL="../Transform Vector To Screen Space.vi"/>
 	</Item>
+	<Item Name="Benchmark" Type="Folder">
+		<Item Name="Inverse Square Root 1.vi" Type="VI" URL="../Inverse Square Root 1.vi"/>
+		<Item Name="Inverse Square Root 2.vi" Type="VI" URL="../Inverse Square Root 2.vi"/>
+	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Camera.ctl" Type="VI" URL="../Camera.ctl"/>
 		<Item Name="Object.ctl" Type="VI" URL="../Object.ctl"/>
@@ -46,12 +50,10 @@
 		<Item Name="Triangle 3D.ctl" Type="VI" URL="../Triangle 3D.ctl"/>
 		<Item Name="Vector 3D.ctl" Type="VI" URL="../Vector 3D.ctl"/>
 	</Item>
-	<Item Name="Should Be Private" Type="Folder">
-		<Item Name="Inverse Square Root.vi" Type="VI" URL="../Inverse Square Root.vi"/>
-	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Check Raster Point In Range.vi" Type="VI" URL="../Check Raster Point In Range.vi"/>
+		<Item Name="Inverse Square Root.vi" Type="VI" URL="../Inverse Square Root.vi"/>
 	</Item>
 	<Item Name="Test" Type="Folder">
 		<Item Name="Test - Normalise Vector.vi" Type="VI" URL="../Test - Normalise Vector.vi"/>
