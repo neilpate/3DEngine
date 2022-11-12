@@ -75,13 +75,13 @@
 			<Property Name="NI.ClassItem.State" Type="Int">278929408</Property>
 		</Item>
 		<Item Name="Initialise.vi" Type="VI" URL="../Initialise.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'-!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!B%5&amp;Q='RJ9W&amp;U;7^O,GRW&lt;'FC$6.D:7ZF,GRW9WRB=X-!#6.D:7ZF)'^V&gt;!!=1(!!#!!!!!=!!!Z%;7:G&gt;8.F)%.P&lt;'^V=A!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!=1$,`````%F*F=W^V=G.F)%2J=G6D&gt;'^S?1!!#U!(!!68;72U;!!.1!=!"EBF;7&gt;I&gt;!!!3Q$RX,N$]Q!!!!)-5G&amp;T&gt;'6S,GRW&lt;'FC&amp;6.D=G6F&lt;C"%;7VF&lt;H.J&lt;WZT,G.U&lt;!!A1&amp;!!!A!*!!I25W.S:76O)%2J&lt;76O=WFP&lt;H-!6!$Q!!Q!!Q!%!!1!"1!%!!1!"A!%!!=!"!!)!!M#!!"Y!!!*!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!1!!!!!!!!!!I!!!!!!!!!%!!!!"!!!!!!!1!-!!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'-!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!B%5&amp;Q='RJ9W&amp;U;7^O,GRW&lt;'FC$6.D:7ZF,GRW9WRB=X-!#6.D:7ZF)'^V&gt;!!=1(!!#!!!!!=!!!Z%;7:G&gt;8.F)%.P&lt;'^V=A!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!=1$,`````%F*F=W^V=G.F)%2J=G6D&gt;'^S?1!!#U!(!!68;72U;!!.1!=!"EBF;7&gt;I&gt;!!!3Q$RX,N$]Q!!!!)-5G&amp;T&gt;'6S,GRW&lt;'FC&amp;6.D=G6F&lt;C"%;7VF&lt;H.J&lt;WZT,G.U&lt;!!A1&amp;!!!A!*!!I25W.S:76O)%2J&lt;76O=WFP&lt;H-!6!$Q!!Q!!Q!%!!1!"1!%!!1!"A!%!!=!"!!)!!M$!!"Y!!!.#!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!1!!!!!!!!!!I!!!!!!!!!%!!!!"!!!!!!!1!-!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821058</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
 		</Item>
 		<Item Name="Move Camera.vi" Type="VI" URL="../Move Camera.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;T!!!!"A!%!!!!.%"Q!"Y!!#%218"Q&lt;'FD982J&lt;WYO&lt;(:M;7).5W.F&lt;G5O&lt;(:D&lt;'&amp;T=Q!*5W.F&lt;G5A&lt;X6U!".!#1!-1W&amp;N:8*B)&amp;.Q:76E!!#,!0(@AP#:!!!!!R&amp;"=("M;7.B&gt;'FP&lt;CZM&gt;GRJ9AV49W6O:3ZM&gt;G.M98.T%U.B&lt;76S93".&lt;X:F&lt;76O&gt;#ZD&gt;'Q!4U!7!!A(2G^S&gt;W&amp;S:!F#97.L&gt;W&amp;S:(-#68!%2'^X&lt;A2-:7:U"6*J:WBU"VFB&gt;S"$1V='77&amp;X)%.8!!^$97VF=G%A47^W:7VF&lt;H1!.%"Q!"Y!!#%218"Q&lt;'FD982J&lt;WYO&lt;(:M;7).5W.F&lt;G5O&lt;(:D&lt;'&amp;T=Q!)5W.F&lt;G5A;7Y!!'%!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!)!!Q!%!A!!?!!!!!!!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!"!!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!5!!!!!</Property>
@@ -246,6 +246,7 @@
 			<Property Name="NI.ClassItem.State" Type="Int">34078738</Property>
 		</Item>
 	</Item>
+	<Item Name="Benchmarks" Type="Folder"/>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Camera Movement.ctl" Type="VI" URL="../Camera Movement.ctl">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"#!!!!!1![!0%!!!!!!!!!!R&amp;"=("M;7.B&gt;'FP&lt;CZM&gt;GRJ9AV49W6O:3ZM&gt;G.M98.T#5.P&lt;H2S&lt;WQA-1!)!!!!!1!!!!!!!!</Property>
@@ -264,6 +265,17 @@
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1074541056</Property>
+		</Item>
+	</Item>
+	<Item Name="Should Be Private" Type="Folder">
+		<Item Name="Raster.vi" Type="VI" URL="../Raster.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%A!!!!"Q!%!!!!$5!(!!&gt;/&gt;7VF=GFD!#"!1!!#``````````]!!1Z1;8BF&lt;#"%982B)'^V&gt;!!!.%"Q!"Y!!#%218"Q&lt;'FD982J&lt;WYO&lt;(:M;7).5W.F&lt;G5O&lt;(:D&lt;'&amp;T=Q!*5W.F&lt;G5A&lt;X6U!"Z!1!!#``````````]!!1V1;8BF&lt;#"%982B)'FO!$2!=!!?!!!B%5&amp;Q='RJ9W&amp;U;7^O,GRW&lt;'FC$6.D:7ZF,GRW9WRB=X-!#&amp;.D:7ZF)'FO!!"B!0!!$!!!!!!!!A!$!!!!!!!!!!!!!!!!!!1!"1-!!(A!!!!!!!!!!!!!$1I!!!U,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)3!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!'!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">32</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">524306</Property>
 		</Item>
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
@@ -357,15 +369,6 @@
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710290</Property>
-		</Item>
-		<Item Name="Raster.vi" Type="VI" URL="../Raster.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%A!!!!"Q!%!!!!$5!(!!&gt;/&gt;7VF=GFD!#"!1!!#``````````]!!1Z1;8BF&lt;#"%982B)'^V&gt;!!!.%"Q!"Y!!#%218"Q&lt;'FD982J&lt;WYO&lt;(:M;7).5W.F&lt;G5O&lt;(:D&lt;'&amp;T=Q!*5W.F&lt;G5A&lt;X6U!"Z!1!!#``````````]!!1V1;8BF&lt;#"%982B)'FO!$2!=!!?!!!B%5&amp;Q='RJ9W&amp;U;7^O,GRW&lt;'FC$6.D:7ZF,GRW9WRB=X-!#&amp;.D:7ZF)'FO!!"B!0!!$!!!!!!!!A!$!!!!!!!!!!!!!!!!!!1!"1-!!(A!!!!!!!!!!!!!$1I!!!U,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)3!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!'!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342709778</Property>
 		</Item>
 		<Item Name="Transform And Project Single Object.vi" Type="VI" URL="../../Transform And Project Single Object.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)D#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!2E!!!!(Q!%!!!!"U!*!!&amp;Y!!&gt;!#1!"?1!(1!E!!8I!.Q$RX."+2Q!!!!))-U1O&lt;(:M;7).6G6D&gt;'^S)$.%,G.U&lt;!!91&amp;!!!Q!"!!)!!Q&gt;1&lt;WFO&gt;#!R!$=!]&gt;T13E=!!!!##$.%,GRW&lt;'FC$6:F9X2P=C!T2#ZD&gt;'Q!'%"1!!-!!1!#!!-(5'^J&lt;H1A-A!X!0(=U%J(!!!!!AAT2#ZM&gt;GRJ9AV7:7.U&lt;X)A-U1O9X2M!"B!5!!$!!%!!A!$"V"P;7ZU)$-!%5!(!!N';7RM)%.P&lt;'^V=A!,1!I!"5&amp;M='BB!"R!)2:"&lt;("I93"#&lt;'6O:'FO:S"&amp;&lt;G&amp;C&lt;'6E!!".!0(@@Q8`!!!!!AAT2#ZM&gt;GRJ9BN5=GFB&lt;G&gt;M:3!T2#"8;82I)%.P&lt;'^V=CZD&gt;'Q!)%"1!!9!"!!&amp;!!9!"Q!)!!E)6(*J97ZH&lt;'5!!"*!1!!"`````Q!+"5&amp;S=G&amp;Z!"Z!)2B#97.L:G&amp;D:3"$&gt;7RM;7ZH)%6O97*M:71!!$]!]&gt;T13E=!!!!##$.%,GRW&lt;'FC$6:F9X2P=C!T2#ZD&gt;'Q!)%"1!!-!!1!#!!-04'FH;(1A2'FS:7.U;7^O!$U!]&gt;^P&gt;VA!!!!##$.%,GRW&lt;'FC$V2S;7&amp;O:WRF)$.%,G.U&lt;!!=1&amp;!!!Q!%!!5!"AJ5=GFB&lt;G&gt;M:3!S!!!71%!!!@````]!$AF5=GFB&lt;G&gt;M:8-!&amp;5!(!!Z%;7:G&gt;8.F)%.P&lt;'^V=A!!/1$RX."+2Q!!!!))-U1O&lt;(:M;7).6G6D&gt;'^S)$.%,G.U&lt;!!;1&amp;!!!Q!"!!)!!QB1&lt;X.J&gt;'FP&lt;A!!/1$RX."+2Q!!!!))-U1O&lt;(:M;7).6G6D&gt;'^S)$.%,G.U&lt;!!;1&amp;!!!Q!"!!)!!QB3&lt;X2B&gt;'FP&lt;A!!.1$RX."+2Q!!!!))-U1O&lt;(:M;7).6G6D&gt;'^S)$.%,G.U&lt;!!71&amp;!!!Q!"!!)!!Q649W&amp;M:1!Z!0(=TIM-!!!!!AAT2#ZM&gt;GRJ9AV5=G&amp;O=W:P=GUO9X2M!"J!5!!$!"%!%A!4#62S97ZT:G^S&lt;1!/1$$`````"%ZB&lt;75!!":!)2&amp;5&gt;8*O&gt;'&amp;C&lt;'5A27ZB9GRF:!!]!0(@CT]Q!!!!!AAT2#ZM&gt;GRJ9AJ09GJF9X1O9X2M!#"!5!!(!!]!%!!5!"5!#1!)!"9'4W*K:7.U!!!.1!E!"UZV&lt;76S;7-!(%"!!!,``````````Q!9#V:J:8=A47&amp;U=GFY!#*!1!!#``````````]!'"&amp;1=G^K:7.U;7^O)%VB&gt;(*J?!!,1!=!"6&gt;J:(2I!!V!"Q!'3'6J:WBU!!",!0(=OU0T!!!!!AR398.U:8)O&lt;(:M;7)65W.S:76O)%2J&lt;76O=WFP&lt;H-O9X2M!#"!5!!#!"M!("&amp;49X*F:7YA2'FN:7ZT;7^O=Q"5!0!!$!!!!!!!!!!,!!!!!!!-!!U!&amp;Q!:!"I!(1)!!(A!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!"!!!!!1!!!!%!!!!B!!!!)1!!!!%!!!!!!"!"Y!!!!!</Property>
