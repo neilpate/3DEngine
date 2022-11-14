@@ -16,6 +16,7 @@
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Add Object.vi" Type="VI" URL="../Add Object.vi"/>
 		<Item Name="Convert Keypress To Camera Movement.vi" Type="VI" URL="../Convert Keypress To Camera Movement.vi"/>
 		<Item Name="Draw Help.vi" Type="VI" URL="../Draw Help.vi"/>
 		<Item Name="Draw Stats.vi" Type="VI" URL="../Draw Stats.vi"/>
@@ -23,11 +24,9 @@
 		<Item Name="Present.vi" Type="VI" URL="../Present.vi"/>
 		<Item Name="Process Mouse Move.vi" Type="VI" URL="../Process Mouse Move.vi"/>
 		<Item Name="Process Mouse Wheel Event.vi" Type="VI" URL="../Process Mouse Wheel Event.vi"/>
+		<Item Name="Remove Active Object.vi" Type="VI" URL="../Remove Active Object.vi"/>
 		<Item Name="Select Object.vi" Type="VI" URL="../Select Object.vi"/>
 		<Item Name="Update.vi" Type="VI" URL="../Update.vi"/>
-	</Item>
-	<Item Name="Add Model.vi" Type="VI" URL="../Add Model.vi">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../../Main.vi"/>
 	<Item Name="Scene.lvclass" Type="LVClass" URL="../Scene/Scene.lvclass"/>
