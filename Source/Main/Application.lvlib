@@ -26,6 +26,9 @@
 		<Item Name="Select Object.vi" Type="VI" URL="../Select Object.vi"/>
 		<Item Name="Update.vi" Type="VI" URL="../Update.vi"/>
 	</Item>
+	<Item Name="Add Model.vi" Type="VI" URL="../Add Model.vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../../Main.vi"/>
 	<Item Name="Scene.lvclass" Type="LVClass" URL="../Scene/Scene.lvclass"/>
 </Library>
