@@ -56,6 +56,7 @@
 		<Item Name="Inverse Square Root.vi" Type="VI" URL="../Inverse Square Root.vi"/>
 	</Item>
 	<Item Name="Test" Type="Folder">
+		<Item Name="Test - Calculate Projection Matrix.vi" Type="VI" URL="../Test - Calculate Projection Matrix.vi"/>
 		<Item Name="Test - Normalise Vector.vi" Type="VI" URL="../Test - Normalise Vector.vi"/>
 		<Item Name="Test - Point At.vi" Type="VI" URL="../Test - Point At.vi"/>
 		<Item Name="Test - Quick Invert.vi" Type="VI" URL="../Test - Quick Invert.vi"/>
