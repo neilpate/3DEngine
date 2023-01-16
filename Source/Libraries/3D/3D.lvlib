@@ -14,6 +14,7 @@
 		<Item Name="Calculate Triangle Illumination.vi" Type="VI" URL="../Calculate Triangle Illumination.vi"/>
 		<Item Name="Calculate View Matrix.vi" Type="VI" URL="../Calculate View Matrix.vi"/>
 		<Item Name="Convert Point 2D (SGL) to Point 2D (I32).vi" Type="VI" URL="../Convert Point 2D (SGL) to Point 2D (I32).vi"/>
+		<Item Name="Convert Vector 3D (SGL) To Point 2D (SGL).vi" Type="VI" URL="../Convert Vector 3D (SGL) To Point 2D (SGL).vi"/>
 		<Item Name="Create Cube.vi" Type="VI" URL="../Create Cube.vi"/>
 		<Item Name="Create Translation Matrix.vi" Type="VI" URL="../../../Main/Sub Vs/Create Translation Matrix.vi"/>
 		<Item Name="Create X Rotation Matrix.vi" Type="VI" URL="../../../Main/Sub Vs/Create X Rotation Matrix.vi"/>
@@ -50,6 +51,9 @@
 		<Item Name="Triangle 3D.ctl" Type="VI" URL="../Triangle 3D.ctl"/>
 		<Item Name="Vector 3D.ctl" Type="VI" URL="../Vector 3D.ctl"/>
 	</Item>
+	<Item Name="Scratch" Type="Folder">
+		<Item Name="Scratch - Texture Mapping Test 1.vi" Type="VI" URL="../Scratch - Texture Mapping Test 1.vi"/>
+	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Check Raster Point In Range.vi" Type="VI" URL="../Check Raster Point In Range.vi"/>
@@ -61,4 +65,6 @@
 		<Item Name="Test - Point At.vi" Type="VI" URL="../Test - Point At.vi"/>
 		<Item Name="Test - Quick Invert.vi" Type="VI" URL="../Test - Quick Invert.vi"/>
 	</Item>
+	<Item Name="Parse Face Line From OBJ.vi" Type="VI" URL="../Parse Face Line From OBJ.vi"/>
+	<Item Name="Texture.ctl" Type="VI" URL="../Texture.ctl"/>
 </Library>

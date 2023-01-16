@@ -1,0 +1,16 @@
+# Blender v3.3.1 OBJ File: 'Textured Plane.blend'
+# www.blender.org
+mtllib Textured Plane -z forw y up.mtl
+o Plane
+v -1.000000 -1.000000 0.000000
+v 1.000000 -1.000000 0.000000
+v -1.000000 1.000000 0.000000
+v 1.000000 1.000000 0.000000
+vt 0.000000 1.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.000000 0.000000
+usemtl Material.001
+s off
+f 2/1 3/2 1/3
+f 2/1 4/4 3/2
