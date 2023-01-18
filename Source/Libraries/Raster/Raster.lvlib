@@ -48,6 +48,7 @@
 	<Item Name="Draw Textured Triangle v2.vi" Type="VI" URL="../Draw Textured Triangle v2.vi"/>
 	<Item Name="Draw Textured Triangle v3.vi" Type="VI" URL="../Draw Textured Triangle v3.vi"/>
 	<Item Name="Generate Texture Array And Data.vi" Type="VI" URL="../Generate Texture Array And Data.vi"/>
+	<Item Name="Index Texture.vi" Type="VI" URL="../Index Texture.vi"/>
 	<Item Name="Point 2D (SGL).ctl" Type="VI" URL="../Point 2D (SGL).ctl"/>
 	<Item Name="Untitled 1 (SubVI).vi" Type="VI" URL="../Untitled 1 (SubVI).vi"/>
 </Library>
