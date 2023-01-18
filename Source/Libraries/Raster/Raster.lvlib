@@ -41,6 +41,7 @@
 	</Item>
 	<Item Name="Calc Max Width And Height.vi" Type="VI" URL="../Calc Max Width And Height.vi"/>
 	<Item Name="Calc P4.vi" Type="VI" URL="../Calc P4.vi"/>
+	<Item Name="Calc Texture Stats.vi" Type="VI" URL="../Calc Texture Stats.vi"/>
 	<Item Name="Calculate Deltas.vi" Type="VI" URL="../Calculate Deltas.vi"/>
 	<Item Name="Calculate Gradient.vi" Type="VI" URL="../Calculate Gradient.vi"/>
 	<Item Name="Calculate Gradients.vi" Type="VI" URL="../Calculate Gradients.vi"/>
@@ -48,4 +49,5 @@
 	<Item Name="Draw Textured Triangle v3.vi" Type="VI" URL="../Draw Textured Triangle v3.vi"/>
 	<Item Name="Generate Texture Array And Data.vi" Type="VI" URL="../Generate Texture Array And Data.vi"/>
 	<Item Name="Point 2D (SGL).ctl" Type="VI" URL="../Point 2D (SGL).ctl"/>
+	<Item Name="Untitled 1 (SubVI).vi" Type="VI" URL="../Untitled 1 (SubVI).vi"/>
 </Library>
