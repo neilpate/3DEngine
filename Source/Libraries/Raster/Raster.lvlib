@@ -19,7 +19,7 @@
 		<Item Name="Line Parameters.ctl" Type="VI" URL="../Line Parameters.ctl"/>
 		<Item Name="Method.ctl" Type="VI" URL="../Method.ctl"/>
 		<Item Name="Point 2D.ctl" Type="VI" URL="../Point 2D.ctl"/>
-		<Item Name="Screen Dimensions.ctl" Type="VI" URL="../Screen Dimensions.ctl"/>
+		<Item Name="Rectangle Dimensions.ctl" Type="VI" URL="../Rectangle Dimensions.ctl"/>
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -39,16 +39,23 @@
 		<Item Name="Test - Draw Lines 1.vi" Type="VI" URL="../Test - Draw Lines 1.vi"/>
 		<Item Name="Test - Replace Row Or Column.vi" Type="VI" URL="../Test - Replace Row Or Column.vi"/>
 	</Item>
+	<Item Name="Calc All Texture Deltas.vi" Type="VI" URL="../Calc All Texture Deltas.vi"/>
+	<Item Name="Calc Bottom To Mid Deltas.vi" Type="VI" URL="../Calc Bottom To Mid Deltas.vi"/>
+	<Item Name="Calc From To Deltas.vi" Type="VI" URL="../Calc From To Deltas.vi"/>
 	<Item Name="Calc Max Width And Height.vi" Type="VI" URL="../Calc Max Width And Height.vi"/>
 	<Item Name="Calc P4.vi" Type="VI" URL="../Calc P4.vi"/>
+	<Item Name="Calc Texture Stats v2.vi" Type="VI" URL="../Calc Texture Stats v2.vi"/>
 	<Item Name="Calc Texture Stats.vi" Type="VI" URL="../Calc Texture Stats.vi"/>
+	<Item Name="Calc UV Start Deltas.vi" Type="VI" URL="../Calc UV Start Deltas.vi"/>
 	<Item Name="Calculate Deltas.vi" Type="VI" URL="../Calculate Deltas.vi"/>
 	<Item Name="Calculate Gradient.vi" Type="VI" URL="../Calculate Gradient.vi"/>
 	<Item Name="Calculate Gradients.vi" Type="VI" URL="../Calculate Gradients.vi"/>
+	<Item Name="Calculate UV In Pixels.vi" Type="VI" URL="../Calculate UV In Pixels.vi"/>
+	<Item Name="Convert To UV Map.vi" Type="VI" URL="../Convert To UV Map.vi"/>
 	<Item Name="Draw Textured Triangle v2.vi" Type="VI" URL="../Draw Textured Triangle v2.vi"/>
 	<Item Name="Draw Textured Triangle v3.vi" Type="VI" URL="../Draw Textured Triangle v3.vi"/>
 	<Item Name="Generate Texture Array And Data.vi" Type="VI" URL="../Generate Texture Array And Data.vi"/>
 	<Item Name="Index Texture.vi" Type="VI" URL="../Index Texture.vi"/>
-	<Item Name="Point 2D (SGL).ctl" Type="VI" URL="../Point 2D (SGL).ctl"/>
 	<Item Name="Untitled 1 (SubVI).vi" Type="VI" URL="../Untitled 1 (SubVI).vi"/>
+	<Item Name="UV.ctl" Type="VI" URL="../UV.ctl"/>
 </Library>
