@@ -415,7 +415,6 @@
 				<Item Name="Check Path.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Check Path.vi"/>
 				<Item Name="Read PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Read PNG File.vi"/>
 				<Item Name="Unflatten Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pixmap.llb/Unflatten Pixmap.vi"/>
-				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Sort 2D Array (U64)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Sort 2D Array (U64)__ogtk.vi"/>
@@ -460,6 +459,11 @@
 				<Item Name="Convert File Extension__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Convert File Extension__ogtk.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="Generate Texture Array And Data.vi" Type="VI" URL="../Libraries/Raster/Generate Texture Array And Data.vi"/>
+			<Item Name="Draw Textured Triangle.vi" Type="VI" URL="../Libraries/Raster/Draw Textured Triangle.vi"/>
+			<Item Name="Draw Flat Bottom Filled Triangle.vi" Type="VI" URL="../Libraries/Raster/Draw Flat Bottom Filled Triangle.vi"/>
+			<Item Name="Draw Flat Top Filled Triangle.vi" Type="VI" URL="../Libraries/Raster/Draw Flat Top Filled Triangle.vi"/>
+			<Item Name="Draw Horizontal Line With Colour Lookup.vi" Type="VI" URL="../Libraries/Raster/Draw Horizontal Line With Colour Lookup.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="3D Engine" Type="EXE">
