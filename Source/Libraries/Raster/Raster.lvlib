@@ -30,6 +30,8 @@
 		<Item Name="Calculate Gradients.vi" Type="VI" URL="../Calculate Gradients.vi"/>
 		<Item Name="Calculate UV In Pixels.vi" Type="VI" URL="../Calculate UV In Pixels.vi"/>
 		<Item Name="Convert To UV Map.vi" Type="VI" URL="../Convert To UV Map.vi"/>
+		<Item Name="Draw Flat Bottom Filled Triangle.vi" Type="VI" URL="../Draw Flat Bottom Filled Triangle.vi"/>
+		<Item Name="Draw Flat Top Filled Triangle.vi" Type="VI" URL="../Draw Flat Top Filled Triangle.vi"/>
 		<Item Name="Draw Horizontal Line.vi" Type="VI" URL="../Draw Horizontal Line.vi"/>
 		<Item Name="Index Texture.vi" Type="VI" URL="../Index Texture.vi"/>
 		<Item Name="Sort Points.vi" Type="VI" URL="../Sort Points.vi"/>
