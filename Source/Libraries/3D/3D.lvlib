@@ -45,6 +45,7 @@
 		<Item Name="Camera.ctl" Type="VI" URL="../Camera.ctl"/>
 		<Item Name="Object.ctl" Type="VI" URL="../Object.ctl"/>
 		<Item Name="Point 2D.ctl" Type="VI" URL="../Point 2D.ctl"/>
+		<Item Name="Texture.ctl" Type="VI" URL="../Texture.ctl"/>
 		<Item Name="Transform.ctl" Type="VI" URL="../Transform.ctl"/>
 		<Item Name="Triangle 2D.ctl" Type="VI" URL="../Triangle 2D.ctl"/>
 		<Item Name="Triangle 3D With Colour.ctl" Type="VI" URL="../Triangle 3D With Colour.ctl"/>
@@ -64,5 +65,4 @@
 		<Item Name="Test - Quick Invert.vi" Type="VI" URL="../Test - Quick Invert.vi"/>
 		<Item Name="Test - Texture Mapping Test 1.vi" Type="VI" URL="../Test - Texture Mapping Test 1.vi"/>
 	</Item>
-	<Item Name="Texture.ctl" Type="VI" URL="../Texture.ctl"/>
 </Library>
