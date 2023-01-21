@@ -28,9 +28,13 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Calc All Texture Deltas.vi" Type="VI" URL="../Calc All Texture Deltas.vi"/>
 		<Item Name="Calc From To Deltas.vi" Type="VI" URL="../Calc From To Deltas.vi"/>
+		<Item Name="Calc Row Stats.vi" Type="VI" URL="../Calc Row Stats.vi"/>
+		<Item Name="Calc Starting Conditions.vi" Type="VI" URL="../Calc Starting Conditions.vi"/>
+		<Item Name="Calculate Line Reciprocal.vi" Type="VI" URL="../Calculate Line Reciprocal.vi"/>
 		<Item Name="Calculate Reciprocals.vi" Type="VI" URL="../Calculate Reciprocals.vi"/>
 		<Item Name="Calculate Texture Gradient.vi" Type="VI" URL="../Calculate Texture Gradient.vi"/>
 		<Item Name="Calculate UV In Pixels.vi" Type="VI" URL="../Calculate UV In Pixels.vi"/>
+		<Item Name="Check Is Triangle Flat Bottomed.vi" Type="VI" URL="../Check Is Triangle Flat Bottomed.vi"/>
 		<Item Name="Convert To UV Map.vi" Type="VI" URL="../Convert To UV Map.vi"/>
 		<Item Name="Draw Flat Bottom Filled Triangle.vi" Type="VI" URL="../Draw Flat Bottom Filled Triangle.vi"/>
 		<Item Name="Draw Flat Top Filled Triangle.vi" Type="VI" URL="../Draw Flat Top Filled Triangle.vi"/>
@@ -48,10 +52,4 @@
 		<Item Name="Test - Draw Lines 1.vi" Type="VI" URL="../Test - Draw Lines 1.vi"/>
 		<Item Name="Test - Replace Row Or Column.vi" Type="VI" URL="../Test - Replace Row Or Column.vi"/>
 	</Item>
-	<Item Name="Calc Row Stats.vi" Type="VI" URL="../Calc Row Stats.vi"/>
-	<Item Name="Calc Starting Conditions.vi" Type="VI" URL="../Calc Starting Conditions.vi"/>
-	<Item Name="Calculate Line Reciprocal.vi" Type="VI" URL="../Calculate Line Reciprocal.vi">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-	</Item>
-	<Item Name="Check Is Triangle Flat Bottomed.vi" Type="VI" URL="../Check Is Triangle Flat Bottomed.vi"/>
 </Library>
