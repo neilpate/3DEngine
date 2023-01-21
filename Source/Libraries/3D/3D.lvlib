@@ -14,7 +14,7 @@
 		<Item Name="Calculate Triangle Illumination.vi" Type="VI" URL="../Calculate Triangle Illumination.vi"/>
 		<Item Name="Calculate View Matrix.vi" Type="VI" URL="../Calculate View Matrix.vi"/>
 		<Item Name="Convert Point 2D (SGL) to Point 2D (I32).vi" Type="VI" URL="../Convert Point 2D (SGL) to Point 2D (I32).vi"/>
-		<Item Name="Convert Vector 3D (SGL) To Point 2D (SGL).vi" Type="VI" URL="../Convert Vector 3D (SGL) To Point 2D (SGL).vi"/>
+		<Item Name="Convert Vector 3D (SGL) To UV 2D (SGL).vi" Type="VI" URL="../Convert Vector 3D (SGL) To UV 2D (SGL).vi"/>
 		<Item Name="Create Cube.vi" Type="VI" URL="../Create Cube.vi"/>
 		<Item Name="Create Translation Matrix.vi" Type="VI" URL="../../../Main/Sub Vs/Create Translation Matrix.vi"/>
 		<Item Name="Create X Rotation Matrix.vi" Type="VI" URL="../../../Main/Sub Vs/Create X Rotation Matrix.vi"/>
@@ -45,26 +45,24 @@
 		<Item Name="Camera.ctl" Type="VI" URL="../Camera.ctl"/>
 		<Item Name="Object.ctl" Type="VI" URL="../Object.ctl"/>
 		<Item Name="Point 2D.ctl" Type="VI" URL="../Point 2D.ctl"/>
+		<Item Name="Texture.ctl" Type="VI" URL="../Texture.ctl"/>
 		<Item Name="Transform.ctl" Type="VI" URL="../Transform.ctl"/>
 		<Item Name="Triangle 2D.ctl" Type="VI" URL="../Triangle 2D.ctl"/>
 		<Item Name="Triangle 3D With Colour.ctl" Type="VI" URL="../Triangle 3D With Colour.ctl"/>
 		<Item Name="Triangle 3D.ctl" Type="VI" URL="../Triangle 3D.ctl"/>
 		<Item Name="Vector 3D.ctl" Type="VI" URL="../Vector 3D.ctl"/>
 	</Item>
-	<Item Name="Scratch" Type="Folder">
-		<Item Name="Scratch - Texture Mapping Test 1.vi" Type="VI" URL="../Scratch - Texture Mapping Test 1.vi"/>
-	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Check Raster Point In Range.vi" Type="VI" URL="../Check Raster Point In Range.vi"/>
 		<Item Name="Inverse Square Root.vi" Type="VI" URL="../Inverse Square Root.vi"/>
+		<Item Name="Parse Face Line From OBJ.vi" Type="VI" URL="../Parse Face Line From OBJ.vi"/>
 	</Item>
 	<Item Name="Test" Type="Folder">
 		<Item Name="Test - Calculate Projection Matrix.vi" Type="VI" URL="../Test - Calculate Projection Matrix.vi"/>
 		<Item Name="Test - Normalise Vector.vi" Type="VI" URL="../Test - Normalise Vector.vi"/>
 		<Item Name="Test - Point At.vi" Type="VI" URL="../Test - Point At.vi"/>
 		<Item Name="Test - Quick Invert.vi" Type="VI" URL="../Test - Quick Invert.vi"/>
+		<Item Name="Test - Texture Mapping Test 1.vi" Type="VI" URL="../Test - Texture Mapping Test 1.vi"/>
 	</Item>
-	<Item Name="Parse Face Line From OBJ.vi" Type="VI" URL="../Parse Face Line From OBJ.vi"/>
-	<Item Name="Texture.ctl" Type="VI" URL="../Texture.ctl"/>
 </Library>
