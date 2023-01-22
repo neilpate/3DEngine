@@ -44,7 +44,7 @@
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Camera.ctl" Type="VI" URL="../Camera.ctl"/>
 		<Item Name="Object.ctl" Type="VI" URL="../Object.ctl"/>
-		<Item Name="Point 2D.ctl" Type="VI" URL="../Point 2D.ctl"/>
+		<Item Name="Point 2D (SGL).ctl" Type="VI" URL="../Point 2D (SGL).ctl"/>
 		<Item Name="Texture.ctl" Type="VI" URL="../Texture.ctl"/>
 		<Item Name="Transform.ctl" Type="VI" URL="../Transform.ctl"/>
 		<Item Name="Triangle 2D.ctl" Type="VI" URL="../Triangle 2D.ctl"/>
