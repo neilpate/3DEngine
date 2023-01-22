@@ -22,20 +22,22 @@
 		<Item Name="Point 2D.ctl" Type="VI" URL="../Point 2D.ctl"/>
 		<Item Name="Reciprocals.ctl" Type="VI" URL="../Reciprocals.ctl"/>
 		<Item Name="Rectangle Dimensions.ctl" Type="VI" URL="../Rectangle Dimensions.ctl"/>
+		<Item Name="Texel Step Deltas (BMT).ctl" Type="VI" URL="../Texel Step Deltas (BMT).ctl"/>
+		<Item Name="Texel Step Deltas.ctl" Type="VI" URL="../Texel Step Deltas.ctl"/>
 		<Item Name="UV.ctl" Type="VI" URL="../UV.ctl"/>
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Account For Texture Y Start.vi" Type="VI" URL="../Account For Texture Y Start.vi"/>
 		<Item Name="Calc All Texture Deltas.vi" Type="VI" URL="../Calc All Texture Deltas.vi"/>
 		<Item Name="Calc From To Deltas.vi" Type="VI" URL="../Calc From To Deltas.vi"/>
-		<Item Name="Calc Row Stats.vi" Type="VI" URL="../Calc Row Stats.vi"/>
-		<Item Name="Calc Starting Conditions.vi" Type="VI" URL="../Calc Starting Conditions.vi"/>
+		<Item Name="Calc Pixel Row Stats.vi" Type="VI" URL="../Calc Pixel Row Stats.vi"/>
+		<Item Name="Calc Pixel Starting Conditions.vi" Type="VI" URL="../Calc Pixel Starting Conditions.vi"/>
 		<Item Name="Calculate Line Reciprocal.vi" Type="VI" URL="../Calculate Line Reciprocal.vi"/>
-		<Item Name="Calculate Reciprocals.vi" Type="VI" URL="../Calculate Reciprocals.vi"/>
+		<Item Name="Calculate Pixel Reciprocals.vi" Type="VI" URL="../Calculate Pixel Reciprocals.vi"/>
 		<Item Name="Calculate Texture Gradient.vi" Type="VI" URL="../Calculate Texture Gradient.vi"/>
 		<Item Name="Calculate UV In Pixels.vi" Type="VI" URL="../Calculate UV In Pixels.vi"/>
 		<Item Name="Check Is Triangle Flat Bottomed.vi" Type="VI" URL="../Check Is Triangle Flat Bottomed.vi"/>
-		<Item Name="Convert To UV Map.vi" Type="VI" URL="../Convert To UV Map.vi"/>
 		<Item Name="Draw Flat Bottom Filled Triangle.vi" Type="VI" URL="../Draw Flat Bottom Filled Triangle.vi"/>
 		<Item Name="Draw Flat Top Filled Triangle.vi" Type="VI" URL="../Draw Flat Top Filled Triangle.vi"/>
 		<Item Name="Draw Horizontal Line.vi" Type="VI" URL="../Draw Horizontal Line.vi"/>
@@ -52,4 +54,9 @@
 		<Item Name="Test - Draw Lines 1.vi" Type="VI" URL="../Test - Draw Lines 1.vi"/>
 		<Item Name="Test - Replace Row Or Column.vi" Type="VI" URL="../Test - Replace Row Or Column.vi"/>
 	</Item>
+	<Item Name="Calc Texel Colour.vi" Type="VI" URL="../Calc Texel Colour.vi"/>
+	<Item Name="Calc Texel Row Stats.vi" Type="VI" URL="../Calc Texel Row Stats.vi"/>
+	<Item Name="Calc Texel Starting Conditions.vi" Type="VI" URL="../Calc Texel Starting Conditions.vi"/>
+	<Item Name="Check Is Middle Reached.vi" Type="VI" URL="../Check Is Middle Reached.vi"/>
+	<Item Name="Convert Fractional Texel To Index.vi" Type="VI" URL="../Convert Fractional Texel To Index.vi"/>
 </Library>
