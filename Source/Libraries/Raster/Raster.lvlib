@@ -34,16 +34,22 @@
 		<Item Name="Calc From To Deltas.vi" Type="VI" URL="../Calc From To Deltas.vi"/>
 		<Item Name="Calc Pixel Row Stats.vi" Type="VI" URL="../Calc Pixel Row Stats.vi"/>
 		<Item Name="Calc Pixel Starting Conditions.vi" Type="VI" URL="../Calc Pixel Starting Conditions.vi"/>
+		<Item Name="Calc Texel Colour.vi" Type="VI" URL="../Calc Texel Colour.vi"/>
+		<Item Name="Calc Texel Row Stats.vi" Type="VI" URL="../Calc Texel Row Stats.vi"/>
+		<Item Name="Calc Texel Starting Conditions.vi" Type="VI" URL="../Calc Texel Starting Conditions.vi"/>
 		<Item Name="Calculate Line Reciprocal.vi" Type="VI" URL="../Calculate Line Reciprocal.vi"/>
 		<Item Name="Calculate Pixel Reciprocals.vi" Type="VI" URL="../Calculate Pixel Reciprocals.vi"/>
 		<Item Name="Calculate Texture Gradient.vi" Type="VI" URL="../Calculate Texture Gradient.vi"/>
 		<Item Name="Calculate UV In Pixels.vi" Type="VI" URL="../Calculate UV In Pixels.vi"/>
+		<Item Name="Check Is Middle Reached.vi" Type="VI" URL="../Check Is Middle Reached.vi"/>
 		<Item Name="Check Is Triangle Flat Bottomed.vi" Type="VI" URL="../Check Is Triangle Flat Bottomed.vi"/>
+		<Item Name="Convert Fractional Texel To Index.vi" Type="VI" URL="../Convert Fractional Texel To Index.vi"/>
 		<Item Name="Draw Flat Bottom Filled Triangle.vi" Type="VI" URL="../Draw Flat Bottom Filled Triangle.vi"/>
 		<Item Name="Draw Flat Top Filled Triangle.vi" Type="VI" URL="../Draw Flat Top Filled Triangle.vi"/>
 		<Item Name="Draw Horizontal Line.vi" Type="VI" URL="../Draw Horizontal Line.vi"/>
 		<Item Name="Index Texture.vi" Type="VI" URL="../Index Texture.vi"/>
 		<Item Name="Sort Points.vi" Type="VI" URL="../Sort Points.vi"/>
+		<Item Name="Update Pixel Colour.vi" Type="VI" URL="../Update Pixel Colour.vi"/>
 	</Item>
 	<Item Name="Test" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -55,10 +61,5 @@
 		<Item Name="Test - Draw Lines 1.vi" Type="VI" URL="../Test - Draw Lines 1.vi"/>
 		<Item Name="Test - Replace Row Or Column.vi" Type="VI" URL="../Test - Replace Row Or Column.vi"/>
 	</Item>
-	<Item Name="Calc Texel Colour.vi" Type="VI" URL="../Calc Texel Colour.vi"/>
-	<Item Name="Calc Texel Row Stats.vi" Type="VI" URL="../Calc Texel Row Stats.vi"/>
-	<Item Name="Calc Texel Starting Conditions.vi" Type="VI" URL="../Calc Texel Starting Conditions.vi"/>
-	<Item Name="Check Is Middle Reached.vi" Type="VI" URL="../Check Is Middle Reached.vi"/>
-	<Item Name="Convert Fractional Texel To Index.vi" Type="VI" URL="../Convert Fractional Texel To Index.vi"/>
-	<Item Name="Update Pixel Colour.vi" Type="VI" URL="../Update Pixel Colour.vi"/>
+	<Item Name="Load Texture.vi" Type="VI" URL="../Load Texture.vi"/>
 </Library>
