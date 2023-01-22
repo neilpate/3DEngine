@@ -11,7 +11,7 @@
 		<Item Name="Clear Framebuffer.vi" Type="VI" URL="../Clear Framebuffer.vi"/>
 		<Item Name="Draw Filled Triangle.vi" Type="VI" URL="../Draw Filled Triangle.vi"/>
 		<Item Name="Draw Line.vi" Type="VI" URL="../Draw Line.vi"/>
-		<Item Name="Draw Textured Triangle v3.vi" Type="VI" URL="../Draw Textured Triangle v3.vi"/>
+		<Item Name="Draw Textured Triangle.vi" Type="VI" URL="../Draw Textured Triangle.vi"/>
 		<Item Name="Draw Triangle.vi" Type="VI" URL="../Draw Triangle.vi"/>
 		<Item Name="Initialise.vi" Type="VI" URL="../Initialise.vi"/>
 	</Item>
@@ -24,6 +24,7 @@
 		<Item Name="Rectangle Dimensions.ctl" Type="VI" URL="../Rectangle Dimensions.ctl"/>
 		<Item Name="Texel Step Deltas (BMT).ctl" Type="VI" URL="../Texel Step Deltas (BMT).ctl"/>
 		<Item Name="Texel Step Deltas.ctl" Type="VI" URL="../Texel Step Deltas.ctl"/>
+		<Item Name="Texture.ctl" Type="VI" URL="../Texture.ctl"/>
 		<Item Name="UV.ctl" Type="VI" URL="../UV.ctl"/>
 	</Item>
 	<Item Name="Sub VIs" Type="Folder">
@@ -59,4 +60,5 @@
 	<Item Name="Calc Texel Starting Conditions.vi" Type="VI" URL="../Calc Texel Starting Conditions.vi"/>
 	<Item Name="Check Is Middle Reached.vi" Type="VI" URL="../Check Is Middle Reached.vi"/>
 	<Item Name="Convert Fractional Texel To Index.vi" Type="VI" URL="../Convert Fractional Texel To Index.vi"/>
+	<Item Name="Update Pixel Colour.vi" Type="VI" URL="../Update Pixel Colour.vi"/>
 </Library>
