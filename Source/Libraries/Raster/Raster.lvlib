@@ -14,12 +14,14 @@
 		<Item Name="Draw Textured Triangle.vi" Type="VI" URL="../Draw Textured Triangle.vi"/>
 		<Item Name="Draw Triangle.vi" Type="VI" URL="../Draw Triangle.vi"/>
 		<Item Name="Initialise.vi" Type="VI" URL="../Initialise.vi"/>
+		<Item Name="Load Texture.vi" Type="VI" URL="../Load Texture.vi"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Current Row.ctl" Type="VI" URL="../Current Row.ctl"/>
 		<Item Name="Line Parameters.ctl" Type="VI" URL="../Line Parameters.ctl"/>
 		<Item Name="Method.ctl" Type="VI" URL="../Method.ctl"/>
 		<Item Name="Point 2D (I32).ctl" Type="VI" URL="../Point 2D (I32).ctl"/>
+		<Item Name="Point 2D (SGL).ctl" Type="VI" URL="../Point 2D (SGL).ctl"/>
 		<Item Name="Reciprocals.ctl" Type="VI" URL="../Reciprocals.ctl"/>
 		<Item Name="Rectangle Dimensions.ctl" Type="VI" URL="../Rectangle Dimensions.ctl"/>
 		<Item Name="Texel Step Deltas (BMT).ctl" Type="VI" URL="../Texel Step Deltas (BMT).ctl"/>
@@ -61,6 +63,4 @@
 		<Item Name="Test - Draw Lines 1.vi" Type="VI" URL="../Test - Draw Lines 1.vi"/>
 		<Item Name="Test - Replace Row Or Column.vi" Type="VI" URL="../Test - Replace Row Or Column.vi"/>
 	</Item>
-	<Item Name="Load Texture.vi" Type="VI" URL="../Load Texture.vi"/>
-	<Item Name="Point 2D (SGL).ctl" Type="VI" URL="../Point 2D (SGL).ctl"/>
 </Library>
