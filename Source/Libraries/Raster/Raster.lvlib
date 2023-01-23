@@ -51,7 +51,6 @@
 		<Item Name="Draw Horizontal Line.vi" Type="VI" URL="../Draw Horizontal Line.vi"/>
 		<Item Name="Index Texture.vi" Type="VI" URL="../Index Texture.vi"/>
 		<Item Name="Sort Points.vi" Type="VI" URL="../Sort Points.vi"/>
-		<Item Name="Update Pixel Colour.vi" Type="VI" URL="../Update Pixel Colour.vi"/>
 	</Item>
 	<Item Name="Test" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
