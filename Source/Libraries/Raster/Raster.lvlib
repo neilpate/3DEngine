@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="API" Type="Folder">
 		<Item Name="Clear Framebuffer.vi" Type="VI" URL="../Clear Framebuffer.vi"/>
+		<Item Name="Draw Filled Triangle (Old).vi" Type="VI" URL="../Draw Filled Triangle (Old).vi"/>
 		<Item Name="Draw Filled Triangle.vi" Type="VI" URL="../Draw Filled Triangle.vi"/>
 		<Item Name="Draw Line.vi" Type="VI" URL="../Draw Line.vi"/>
 		<Item Name="Draw Textured Triangle.vi" Type="VI" URL="../Draw Textured Triangle.vi"/>
@@ -34,6 +35,7 @@
 		<Item Name="Account For Texture Y Start.vi" Type="VI" URL="../Account For Texture Y Start.vi"/>
 		<Item Name="Calc All Texture Deltas.vi" Type="VI" URL="../Calc All Texture Deltas.vi"/>
 		<Item Name="Calc From To Deltas.vi" Type="VI" URL="../Calc From To Deltas.vi"/>
+		<Item Name="Calc P4.vi" Type="VI" URL="../../../../../../Users/neilp/Desktop/Calc P4.vi"/>
 		<Item Name="Calc Pixel Row Stats.vi" Type="VI" URL="../Calc Pixel Row Stats.vi"/>
 		<Item Name="Calc Pixel Starting Conditions.vi" Type="VI" URL="../Calc Pixel Starting Conditions.vi"/>
 		<Item Name="Calc Texel Colour.vi" Type="VI" URL="../Calc Texel Colour.vi"/>
