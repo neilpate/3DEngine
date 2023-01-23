@@ -35,7 +35,7 @@
 		<Item Name="Account For Texture Y Start.vi" Type="VI" URL="../Account For Texture Y Start.vi"/>
 		<Item Name="Calc All Texture Deltas.vi" Type="VI" URL="../Calc All Texture Deltas.vi"/>
 		<Item Name="Calc From To Deltas.vi" Type="VI" URL="../Calc From To Deltas.vi"/>
-		<Item Name="Calc P4.vi" Type="VI" URL="../../../../../../Users/neilp/Desktop/Calc P4.vi"/>
+		<Item Name="Calc P4.vi" Type="VI" URL="../Calc P4.vi"/>
 		<Item Name="Calc Pixel Row Stats.vi" Type="VI" URL="../Calc Pixel Row Stats.vi"/>
 		<Item Name="Calc Pixel Starting Conditions.vi" Type="VI" URL="../Calc Pixel Starting Conditions.vi"/>
 		<Item Name="Calc Texel Colour.vi" Type="VI" URL="../Calc Texel Colour.vi"/>
