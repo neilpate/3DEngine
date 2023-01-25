@@ -16,6 +16,7 @@
 		<Item Name="Draw Triangle.vi" Type="VI" URL="../Draw Triangle.vi"/>
 		<Item Name="Initialise.vi" Type="VI" URL="../Initialise.vi"/>
 		<Item Name="Load Texture.vi" Type="VI" URL="../Load Texture.vi"/>
+		<Item Name="SGL To I32.vi" Type="VI" URL="../SGL To I32.vi"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Current Row.ctl" Type="VI" URL="../Current Row.ctl"/>

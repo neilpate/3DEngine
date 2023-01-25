@@ -32,6 +32,7 @@
 		<Item Name="Point At.vi" Type="VI" URL="../Point At.vi"/>
 		<Item Name="Project And Illuminate Triangle.vi" Type="VI" URL="../Project And Illuminate Triangle.vi"/>
 		<Item Name="Raster.vi" Type="VI" URL="../Raster.vi"/>
+		<Item Name="Round Vertex.vi" Type="VI" URL="../Round Vertex.vi"/>
 		<Item Name="Scale Point 3D (SGL) To Screen.vi" Type="VI" URL="../Scale Point 3D (SGL) To Screen.vi"/>
 		<Item Name="Sort Triangles.vi" Type="VI" URL="../Sort Triangles.vi"/>
 		<Item Name="Transform Triangle.vi" Type="VI" URL="../Transform Triangle.vi"/>
