@@ -16,7 +16,7 @@
 		<Item Name="Draw Triangle.vi" Type="VI" URL="../Draw Triangle.vi"/>
 		<Item Name="Initialise.vi" Type="VI" URL="../Initialise.vi"/>
 		<Item Name="Load Texture.vi" Type="VI" URL="../Load Texture.vi"/>
-		<Item Name="SGL To I32.vi" Type="VI" URL="../SGL To I32.vi"/>
+		<Item Name="Round SGL.vi" Type="VI" URL="../Round SGL.vi"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Current Row.ctl" Type="VI" URL="../Current Row.ctl"/>
@@ -42,6 +42,7 @@
 		<Item Name="Calc Texel Colour.vi" Type="VI" URL="../Calc Texel Colour.vi"/>
 		<Item Name="Calc Texel Row Stats.vi" Type="VI" URL="../Calc Texel Row Stats.vi"/>
 		<Item Name="Calc Texel Starting Conditions.vi" Type="VI" URL="../Calc Texel Starting Conditions.vi"/>
+		<Item Name="Calc Triangle Line Reciprocals.vi" Type="VI" URL="../Calc Triangle Line Reciprocals.vi"/>
 		<Item Name="Calculate Line Reciprocal.vi" Type="VI" URL="../Calculate Line Reciprocal.vi"/>
 		<Item Name="Calculate Pixel Reciprocals.vi" Type="VI" URL="../Calculate Pixel Reciprocals.vi"/>
 		<Item Name="Calculate Texture Gradient.vi" Type="VI" URL="../Calculate Texture Gradient.vi"/>
