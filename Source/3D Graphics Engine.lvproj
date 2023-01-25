@@ -17,6 +17,7 @@
 		<Item Name="Raster.lvlib" Type="Library" URL="../Libraries/Raster/Raster.lvlib"/>
 		<Item Name="Utility.lvlib" Type="Library" URL="../Libraries/Utility/Utility.lvlib"/>
 		<Item Name="Benchmark.lvlib" Type="Library" URL="../Benchmark/Benchmark.lvlib"/>
+		<Item Name="Global 1.vi" Type="VI" URL="../Libraries/Raster/Global 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw 1-Bit Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw 1-Bit Pixmap.vi"/>
