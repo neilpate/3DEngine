@@ -11,6 +11,7 @@
 		<Item Name="Clear Framebuffer.vi" Type="VI" URL="../Clear Framebuffer.vi"/>
 		<Item Name="Draw Filled Triangle (Old).vi" Type="VI" URL="../Draw Filled Triangle (Old).vi"/>
 		<Item Name="Draw Filled Triangle.vi" Type="VI" URL="../Draw Filled Triangle.vi"/>
+		<Item Name="Draw Line v2.vi" Type="VI" URL="../Draw Line v2.vi"/>
 		<Item Name="Draw Line.vi" Type="VI" URL="../Draw Line.vi"/>
 		<Item Name="Draw Textured Triangle.vi" Type="VI" URL="../Draw Textured Triangle.vi"/>
 		<Item Name="Draw Triangle.vi" Type="VI" URL="../Draw Triangle.vi"/>
@@ -53,17 +54,23 @@
 		<Item Name="Draw Flat Bottom Filled Triangle.vi" Type="VI" URL="../Draw Flat Bottom Filled Triangle.vi"/>
 		<Item Name="Draw Flat Top Filled Triangle.vi" Type="VI" URL="../Draw Flat Top Filled Triangle.vi"/>
 		<Item Name="Draw Horizontal Line.vi" Type="VI" URL="../Draw Horizontal Line.vi"/>
+		<Item Name="Draw Line - Octant 0.vi" Type="VI" URL="../Draw Line - Octant 0.vi"/>
+		<Item Name="Draw Line - Octant 1.vi" Type="VI" URL="../Draw Line - Octant 1.vi"/>
 		<Item Name="Index Texture.vi" Type="VI" URL="../Index Texture.vi"/>
 		<Item Name="Sort Points.vi" Type="VI" URL="../Sort Points.vi"/>
 	</Item>
 	<Item Name="Test" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="Test - Draw Line - Octant 0.vi" Type="VI" URL="../Test - Draw Line - Octant 0.vi"/>
+		<Item Name="Test - Draw Line - Octant 1.vi" Type="VI" URL="../Test - Draw Line - Octant 1.vi"/>
 		<Item Name="Test - Draw Textured Triangle.vi" Type="VI" URL="../Test - Draw Textured Triangle.vi"/>
 		<Item Name="Test - Draw Filled Triangle.vi" Type="VI" URL="../Test - Draw Filled Triangle.vi"/>
 		<Item Name="Test - Draw Teapot.vi" Type="VI" URL="../Test - Draw Teapot.vi"/>
 		<Item Name="Test - Draw Unfilled Triangle.vi" Type="VI" URL="../Test - Draw Unfilled Triangle.vi"/>
 		<Item Name="Test - Draw Horizontal Line.vi" Type="VI" URL="../Test - Draw Horizontal Line.vi"/>
 		<Item Name="Test - Draw Line 1.vi" Type="VI" URL="../Test - Draw Line 1.vi"/>
+		<Item Name="Test - Draw Line v2.vi" Type="VI" URL="../Test - Draw Line v2.vi"/>
+		<Item Name="Test - Draw Line Algorithm Comparison.vi" Type="VI" URL="../Test - Draw Line Algorithm Comparison.vi"/>
 		<Item Name="Test - Draw Lines 1.vi" Type="VI" URL="../Test - Draw Lines 1.vi"/>
 		<Item Name="Test - Replace Row Or Column.vi" Type="VI" URL="../Test - Replace Row Or Column.vi"/>
 	</Item>
