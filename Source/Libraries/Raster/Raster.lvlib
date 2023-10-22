@@ -68,6 +68,7 @@
 		<Item Name="Test - Replace Row Or Column.vi" Type="VI" URL="../Test - Replace Row Or Column.vi"/>
 	</Item>
 	<Item Name="Draw Filled Triangle (Old) 1D.vi" Type="VI" URL="../Draw Filled Triangle (Old) 1D.vi"/>
+	<Item Name="Draw Filled Triangle 1D.vi" Type="VI" URL="../Draw Filled Triangle 1D.vi"/>
 	<Item Name="Draw Flat Bottom Filled Triangle 1D.vi" Type="VI" URL="../Draw Flat Bottom Filled Triangle 1D.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
@@ -77,4 +78,5 @@
 	<Item Name="Draw Horizontal Line 1D.vi" Type="VI" URL="../Draw Horizontal Line 1D.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="Test - Draw Filled Triangle 1D.vi" Type="VI" URL="../Test - Draw Filled Triangle 1D.vi"/>
 </Library>
