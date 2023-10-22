@@ -58,8 +58,10 @@
 	</Item>
 	<Item Name="Test" Type="Folder">
 		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="Test - Draw Filled Triangle 1D.vi" Type="VI" URL="../Test - Draw Filled Triangle 1D.vi"/>
 		<Item Name="Test - Draw Textured Triangle.vi" Type="VI" URL="../Test - Draw Textured Triangle.vi"/>
 		<Item Name="Test - Draw Filled Triangle.vi" Type="VI" URL="../Test - Draw Filled Triangle.vi"/>
+		<Item Name="Draw Filled Triangle 1D.vi" Type="VI" URL="../Draw Filled Triangle 1D.vi"/>
 		<Item Name="Test - Draw Teapot.vi" Type="VI" URL="../Test - Draw Teapot.vi"/>
 		<Item Name="Test - Draw Unfilled Triangle.vi" Type="VI" URL="../Test - Draw Unfilled Triangle.vi"/>
 		<Item Name="Test - Draw Horizontal Line.vi" Type="VI" URL="../Test - Draw Horizontal Line.vi"/>
@@ -68,7 +70,6 @@
 		<Item Name="Test - Replace Row Or Column.vi" Type="VI" URL="../Test - Replace Row Or Column.vi"/>
 	</Item>
 	<Item Name="Draw Filled Triangle (Old) 1D.vi" Type="VI" URL="../Draw Filled Triangle (Old) 1D.vi"/>
-	<Item Name="Draw Filled Triangle 1D.vi" Type="VI" URL="../Draw Filled Triangle 1D.vi"/>
 	<Item Name="Draw Flat Bottom Filled Triangle 1D.vi" Type="VI" URL="../Draw Flat Bottom Filled Triangle 1D.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
@@ -78,5 +79,4 @@
 	<Item Name="Draw Horizontal Line 1D.vi" Type="VI" URL="../Draw Horizontal Line 1D.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Test - Draw Filled Triangle 1D.vi" Type="VI" URL="../Test - Draw Filled Triangle 1D.vi"/>
 </Library>
