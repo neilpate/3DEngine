@@ -13,12 +13,11 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Application.lvlib" Type="Library" URL="../Main/Application.lvlib"/>
-		<Item Name="3D.lvlib" Type="Library" URL="../Libraries/3D/3D.lvlib"/>
-		<Item Name="Raster.lvlib" Type="Library" URL="../Libraries/Raster/Raster.lvlib"/>
+		<Item Name="3D (FPGA).lvlib" Type="Library" URL="../FPGA/Libraries/3D/3D (FPGA).lvlib"/>
+		<Item Name="Raster (FPGA).lvlib" Type="Library" URL="../FPGA/Libraries/Raster/Raster (FPGA).lvlib"/>
 		<Item Name="Utility.lvlib" Type="Library" URL="../Libraries/Utility/Utility.lvlib"/>
 		<Item Name="Benchmark.lvlib" Type="Library" URL="../Benchmark/Benchmark.lvlib"/>
-		<Item Name="Global 1.vi" Type="VI" URL="../Libraries/Raster/Global 1.vi"/>
-		<Item Name="Raster (FPGA).lvlib" Type="Library" URL="../FPGA/Libraries/Raster/Raster (FPGA).lvlib"/>
+		<Item Name="Global 1.vi" Type="VI" URL="../FPGA/Libraries/Raster/Global 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw 1-Bit Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw 1-Bit Pixmap.vi"/>
