@@ -461,7 +461,6 @@
 				<Item Name="Convert File Extension (Path)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Convert File Extension (Path)__ogtk.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="Initialise.vi" Type="VI" URL="../FPGA/Libraries/Raster/Initialise.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="3D Engine" Type="EXE">
