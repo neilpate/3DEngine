@@ -44,5 +44,6 @@
 	</Item>
 	<Item Name="Test" Type="Folder">
 		<Item Name="Test - Draw Filled Triangle.vi" Type="VI" URL="../Test - Draw Filled Triangle.vi"/>
+		<Item Name="Test - With DRAM.vi" Type="VI" URL="../Test - With DRAM.vi"/>
 	</Item>
 </Library>
