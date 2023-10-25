@@ -220,7 +220,7 @@
 				</Item>
 			</Item>
 		</Item>
-		<Item Name="Untitled 1.vi" Type="VI" URL="../Untitled 1.vi"/>
+		<Item Name="Host.vi" Type="VI" URL="../Host.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw 1-Bit Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw 1-Bit Pixmap.vi"/>
@@ -686,6 +686,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Raster (FPGA).lvlib" Type="Library" URL="../FPGA/Libraries/Raster/Raster (FPGA).lvlib"/>
+			<Item Name="TestDRAM.lvbitx" Type="Document" URL="../../Builds/FPGA/TestDRAM.lvbitx"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="3D Engine" Type="EXE">
